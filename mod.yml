@@ -1,0 +1,147 @@
+title: Purple Sora
+description: Changes Sora's Belts and Pockets to Purple
+assets:
+#Textures Sora Main Tex0
+- name: remastered\obj\P_EX100.mdlx\-0.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-0.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-0.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-0.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-0.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-0.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-0.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-0.dds
+  - name: remastered\obj\PLAYER.mdlx\-0.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-0.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-0.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-0.dds
+  - name: remastered\obj\WM_EX100.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base.dds
+#Textures Sora Main tex1
+- name: remastered\obj\P_EX100.mdlx\-1.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-1.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-1.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-1.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-1.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-1.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-1.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-1.dds
+  - name: remastered\obj\PLAYER.mdlx\-1.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-1.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-1.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-1.dds
+  - name: remastered\obj\WM_EX100.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base1.dds
+#Textures Sora Main tex2
+- name: remastered\obj\P_EX100.mdlx\-2.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-2.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-2.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-2.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-2.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-2.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-2.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-2.dds
+  - name: remastered\obj\PLAYER.mdlx\-2.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-2.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-2.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-2.dds
+  - name: remastered\obj\WM_EX100.mdlx\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base2.dds
+#Textures Sora Main tex3
+- name: remastered\obj\P_EX100.mdlx\-3.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-3.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-3.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-3.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-3.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-3.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-3.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-3.dds
+  - name: remastered\obj\PLAYER.mdlx\-3.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-3.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-3.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-3.dds
+  - name: remastered\obj\WM_EX100.mdlx\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base3.dds
+#Textures Sora Main tex4
+- name: remastered\obj\P_EX100.mdlx\-4.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-4.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-4.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-4.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-4.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-4.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-4.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-4.dds
+  - name: remastered\obj\PLAYER.mdlx\-4.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-4.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-4.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-4.dds
+  - name: remastered\obj\WM_EX100.mdlx\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base4.dds
+#Textures Sora Main tex5
+- name: remastered\obj\P_EX100.mdlx\-5.dds
+  multi: 
+  - name: remastered\obj\ACTOR_SORA.mdlx\-5.dds
+  - name: remastered\obj\AL14_PLAYER.mdlx\-5.dds
+  - name: remastered\obj\DEAD_BOSS.mdlx\-5.dds
+  - name: remastered\obj\LAST_ATTACKER.mdlx\-5.dds
+  - name: remastered\obj\LAST_GIMMICK.mdlx\-5.dds
+  - name: remastered\obj\LAST_HITMARK.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_LAST.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_MEMO.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_NPC.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_SIDECAR.mdlx\-5.dds
+  - name: remastered\obj\P_EX100_WM.mdlx\-5.dds
+  - name: remastered\obj\PLAYER.mdlx\-5.dds
+  - name: remastered\obj\PO06_PLAYER.mdlx\-5.dds
+  - name: remastered\obj\PO07_PLAYER.mdlx\-5.dds
+  - name: remastered\obj\PO08_PLAYER.mdlx\-5.dds
+  - name: remastered\obj\WM_EX100.mdlx\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Textures\Sora\Base5.dds
